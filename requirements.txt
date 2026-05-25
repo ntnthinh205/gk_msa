@@ -5,3 +5,5 @@ seaborn
 scipy
 scikit-learn==1.7.2
 ipykernel
+ipywidgets
+jupyter
